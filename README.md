@@ -1,4 +1,4 @@
 # Yash-1st
-First repository of Yash Deshmukh
+First repository
 <br>
 Author-Yash Deshmukh
